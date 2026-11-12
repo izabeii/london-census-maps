@@ -10,7 +10,7 @@ I am interested in using maps and spatial data to investigate patterns of inequa
 
 This project explores Census 2021 data using Python, Pandas, GeoPandas and Matplotlib. The aim is to use mapping and spatial analysis techniques to better understand how demographic, social, and economic characteristics vary across London.
 
-Through this project, I hope to explore how maps can help reveal spatial patterns and inequalities that may not be immediately visible through tables or summary statistics alone.
+Through this project, I will explore how maps can help reveal spatial patterns and inequalities that may not be immediately visible through tables or summary statistics alone.
 
 ---
 
